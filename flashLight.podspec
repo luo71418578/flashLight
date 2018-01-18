@@ -9,7 +9,7 @@ Pod::Spec.new do |s|
   s.license      = "MIT"
   s.author       = { "luo71418578" => "921257813@qq.com" }
   s.source       = { :git => "https://github.com/luo71418578/flashLight.git", :tag => "#{s.version}" }
-  s.platform     = :ios, '8.0'
+  s.platform     = :ios, '5.0'
   s.source_files = "PaperFold/*.{h,m}"
 
   s.framework    = "UIKit"
