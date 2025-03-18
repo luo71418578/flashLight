@@ -1,0 +1,45 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>items</key>
+	<array>
+		<dict>
+			<key>assets</key>
+			<array>
+				<dict>
+					<key>kind</key>
+					<string>software-package</string>
+					<key>url</key>
+					<string>https://lingdaozhe.obs.cn-east-2.myhuaweicloud.com/ios_file/%E9%93%83%E5%AF%BC%E8%80%85.ipa</string>
+				</dict>
+				<dict>
+					<key>kind</key>
+					<string>display-image</string>
+					<key>url</key>
+					<string>https://lingdaozhe.obs.cn-east-2.myhuaweicloud.com/ios_file/img/ldzIcon512x512.png</string>
+				</dict>
+				<dict>
+					<key>kind</key>
+					<string>full-size-image</string>
+					<key>url</key>
+					<string>https://lingdaozhe.obs.cn-east-2.myhuaweicloud.com/ios_file/img/ldzIcon57x57.png</string>
+				</dict>
+			</array>
+			<key>metadata</key>
+			<dict>
+				<key>bundle-identifier</key>
+				<string>cn.com.tailingEnterprise</string>
+				<key>bundle-version</key>
+				<string>3.10.6</string>
+				<key>kind</key>
+				<string>software</string>
+				<key>platform-identifier</key>
+				<string>com.apple.platform.iphoneos</string>
+				<key>title</key>
+				<string>铃导者</string>
+			</dict>
+		</dict>
+	</array>
+</dict>
+</plist>
